@@ -36,3 +36,13 @@ function formatarTelefone(input) {
     input.value = valor;
   }
 }
+
+function TradingJournal(){
+  let url="";
+  window.open(url);
+}
+
+function GrowBank(){
+  let url="";
+  window.open(url);
+}
